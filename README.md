@@ -5,6 +5,8 @@ Everything about Automated Eassy Scoring
 ## Dataset
 
 [ASAP](https://www.kaggle.com/c/asap-aes/data?select=Essay_Set_Descriptions.zip):  
+Students ranging in grade levels from Grade 7 to Grade 10.
+
 - essay_id: 学生作文的id
 - essay_set: 每组论文的 ID, 比赛共有八组作文, 编号为1-8, 每组作文分别对应一个 `prompt` 
 - essay: 学生作文回答内容
